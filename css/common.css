@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  body{
+    background-image: url("../img/blucactus-fondo-oscuro-paginas-web-1.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+
+  
+  }
+  header {
+    
+    color:white;
+    background-color: black;
+    text-align: center;
+    line-height: 95px;
+    margin: 0px auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Helvetica, sans-serif;
+    
+  }
+  
+  ul {
+    align-items: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    font-size: 15px;
+    color:white;  
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: black;
+    border-style: outset;
+    border-color: red;
+    
+  }
+  
+  li a:hover {
+    background-color: red;
+  }
+  footer a {
+    
+    color: aliceblue;
+    text-align: left;  
+    line-height: 35px;
+    margin: 0px auto;
+    align-items: center;
+    height: 90px;
+    line-height: 30px;
+  }
+  footer  {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Helvetica, sans-serif;
+    color: aliceblue;
+    
+  }
+  

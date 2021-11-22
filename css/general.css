@@ -1,0 +1,19 @@
+main article h1,h2 {
+    text-align: left;
+    color: red;
+    
+    
+}
+  main section p{
+    text-align: left;
+    color: white;
+    padding-top: 19px;
+    padding-bottom: 30px;
+       
+  }
+  main *{
+    padding-top: 5px;
+    
+  }
+
+  
